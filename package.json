@@ -1,0 +1,9 @@
+{
+  "name": "fractal",
+  "version": "0.0.1",
+  "description": "fractals",
+  "author": "royhowie",
+  "dependencies": {
+    "node-gd": "^1.4.0"
+  }
+}
