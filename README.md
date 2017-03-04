@@ -1,7 +1,6 @@
 # fractals
-### Generate fractals using an Iterated Function System (IFS).
 
----
+#### Generate fractals with Iterated Function Systems (IFS).
 
 ##### How to run:
 Make sure to install dependencies (`node-gd`) first with `npm install`. Then,
