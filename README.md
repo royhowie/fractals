@@ -37,3 +37,6 @@ This process is repeated a given number of times and produces a fractal.
     * https://en.wikipedia.org/wiki/Contraction_mapping
   * Inspiration:
     * https://www.reddit.com/r/dailyprogrammer/comments/5xaoxb/
+  * Examples:
+    * http://cs.lmu.edu/~ray/notes/ifs/
+    * http://natureofcode.com/book/chapter-8-fractals/
